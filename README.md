@@ -72,9 +72,9 @@ This was a **team-based private project**, and my work focused on both **fronten
 ---
 
 ## Screenshots
-
+<div align="center">
 <img width="500" height="1200" alt="NoPestsAllowed – Depositions View" src="https://github.com/user-attachments/assets/9e858da9-0e6e-4149-9399-a48ccba61e7a" />
-
+</div>
 ---
 
 ## Project Status
